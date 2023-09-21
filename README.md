@@ -1,54 +1,13 @@
-# Astro Starter Kit: Basics
+<img width="1365" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/b672bdc0-811b-4cea-9526-1b14ad728c8a">
+<img width="1341" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/f55c32ed-f714-4913-b764-63732cbbee33">
+<img width="1350" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/56cf11ca-a935-49bf-b1fd-1c1003975e14">
+<img width="1350" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/91313e17-8022-4d2a-a2aa-07f752816ba9">
+<img width="1361" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/e6d64ba4-7fa5-4710-aaaa-888680d56bd6">
+<img width="1358" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/6472215d-8cb0-4850-a97f-d6af6d54760d">
+<img width="1354" alt="image" src="https://github.com/FelixSegudez/TeslaLanding/assets/114358891/4cab6193-03b6-47e6-a818-40a30d94840d">
 
-```
-npm create astro@latest -- --template basics
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
 
-## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
